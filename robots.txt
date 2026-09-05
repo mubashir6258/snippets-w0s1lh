@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mubashir6258.github.io/snippets-w0s1lh/sitemap.xml
